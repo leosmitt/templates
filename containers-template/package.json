@@ -1,5 +1,5 @@
 {
-	"name": "containers-template",
+	"name": "containers",
 	"description": "Build a Container-enabled Worker",
 	"private": true,
 	"scripts": {
