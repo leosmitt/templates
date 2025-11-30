@@ -1,9 +1,9 @@
 {
-  "name": "saas-admin-template",
+  "name": "saas-admin",
   "description": "Admin dashboard template built with Astro, shadcn/ui, and Cloudflare's developer stack",
   "private": true,
   "cloudflare": {
-    "label": "SaaS Admin Template",
+    "label": "SaaS Admin",
     "products": [
       "Workers",
       "D1"
