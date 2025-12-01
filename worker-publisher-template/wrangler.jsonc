@@ -15,7 +15,7 @@
 		"enabled": true
 	},
 	"vars": {
-		"CLOUDFLARE_ACCOUNT_ID": "",
+		"CLOUDFLARE_ACCOUNT_ID": "5b29bce3b2061f8210c013f2bc67470a",
 		"READONLY": "true"
 	}
 }
